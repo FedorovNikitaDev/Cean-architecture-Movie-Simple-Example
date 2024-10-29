@@ -1,0 +1,11 @@
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.deps.json
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\bin\Debug\net8.0\CleanMovie.Domain.pdb
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.AssemblyInfo.cs
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\refint\CleanMovie.Domain.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\CleanMovie.Domain.pdb
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Domain\obj\Debug\net8.0\ref\CleanMovie.Domain.dll

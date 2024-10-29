@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.deps.json
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.pdb
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.pdb
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfo.cs
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMov.DB344909.Up2Date
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\refint\CleanMovie.Application.dll
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.pdb
+C:\Users\nikit\Desktop\Learn\CleanArchitecture\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\ref\CleanMovie.Application.dll

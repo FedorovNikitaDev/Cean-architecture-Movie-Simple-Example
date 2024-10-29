@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Domain", "CleanMovie.Domain\CleanMovie.Domain.csproj", "{0B3A53E4-D090-4246-B959-6D8E9E8F93C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Application", "CleanMovie.Application\CleanMovie.Application.csproj", "{76221673-2208-4164-8EC4-AB6FA6FFF1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrastructure", "CleanMovie.Infrastructure\CleanMovie.Infrastructure.csproj", "{5120A520-778F-4E86-8F4A-8436A4E2D6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.API", "CleanMovie.API\CleanMovie.API.csproj", "{E210EB6D-50B5-4829-B7A3-A900E2125933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3A53E4-D090-4246-B959-6D8E9E8F93C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3A53E4-D090-4246-B959-6D8E9E8F93C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3A53E4-D090-4246-B959-6D8E9E8F93C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3A53E4-D090-4246-B959-6D8E9E8F93C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76221673-2208-4164-8EC4-AB6FA6FFF1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76221673-2208-4164-8EC4-AB6FA6FFF1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76221673-2208-4164-8EC4-AB6FA6FFF1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76221673-2208-4164-8EC4-AB6FA6FFF1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5120A520-778F-4E86-8F4A-8436A4E2D6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5120A520-778F-4E86-8F4A-8436A4E2D6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5120A520-778F-4E86-8F4A-8436A4E2D6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5120A520-778F-4E86-8F4A-8436A4E2D6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E210EB6D-50B5-4829-B7A3-A900E2125933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E210EB6D-50B5-4829-B7A3-A900E2125933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E210EB6D-50B5-4829-B7A3-A900E2125933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E210EB6D-50B5-4829-B7A3-A900E2125933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
